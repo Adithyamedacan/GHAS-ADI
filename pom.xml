@@ -8,12 +8,7 @@
   <name>demo</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <javafx.version>21</javafx.version>
-    <javafx.maven.plugin.version>0.0.8</javafx.maven.plugin.version>
-  </properties>
-
+  
 
   
 </project>
